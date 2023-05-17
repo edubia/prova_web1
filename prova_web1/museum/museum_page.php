@@ -27,7 +27,7 @@
         <button>register</button>
     </form>
 
-    <h1>Your Museumns</h1>
+    <h1>Your Museums</h1>
 
     <?php $fp = fopen("museu.csv", "r") ?>
 
